@@ -4,9 +4,9 @@ subtitle: A barebone GitHub Pages with static comments
 email: your-email@domain.com
 description: Test
 baseurl: ""
-url: "https://vincenttam.github.io/TestStaticmanLab/"
+url: "https://wini3d.github.io/mini//"
 locale: en
-github_username:  VincentTam
+github_username:  wini3d
 
 # Build settings
 markdown: kramdown
