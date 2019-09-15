@@ -12,7 +12,7 @@ github_username:  wini3d
 markdown: kramdown
 
 staticman:
-  api: "https://staticman3.herokuapp.com/v3/entry/github/vincenttam/TestStaticmanLab/master/comments"
+  api: "https://wini3d-sman.glitch.me/v3/connect/github/wini3d/mini/master/comments"
   path: "_data/comments/test-slug"
 
 theme: minima
